@@ -224,7 +224,7 @@ env/
 *_mask*
 .vscode
 *.csv
-
+*.sql
 
 # End of https://www.toptal.com/developers/gitignore/api/python,images,text
 *.data-00000-of-00001
