@@ -9,7 +9,7 @@
 
 ## 1. 주요 컬럼
 
-![Untitled](PUBG/Untitled.png)
+![Untitled](read_img/Untitled.png)
 
 ---
 
@@ -37,7 +37,7 @@
 
 - 종속 변수 WinPlacePerc와 상관 계수가 높은 컬럼들을 조합/변형하여 컬럼 추가
 
-![Untitled](PUBG/Untitled%201.png)
+![Untitled](read_img/Untitled%201.png)
 
 ---
 
@@ -45,7 +45,7 @@
 
 ### 4.1 데이터셋의 다양한 케이스화
 
-![Untitled](PUBG/Untitled%202.png)
+![Untitled](read_img/Untitled%202.png)
 
 ### 4.2 GridSearchCV를 이용한 하이퍼파라미터 찾기
 
@@ -116,7 +116,7 @@ for i in model_list:
   print(df)
 ```
 
-![Untitled](PUBG/Untitled%203.png)
+![Untitled](read_img/Untitled%203.png)
 
 ## 5. 결론 및 고찰
 
